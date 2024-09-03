@@ -20,4 +20,4 @@ Hello world!
 I'm a final year PhD student in Computer Science at [ETH Zürich](https://ethz.ch/en.html) in the  [Computational Robotics Lab](http://crl.ethz.ch/), under the supervision of [Prof. Stelian Coros](http://crl.ethz.ch/people/coros/index.html).
 
 #### - research
-My current research interest include: Robot Learning for Manipulation, Differentiable Simulation, Deformable Objects, Reinforcement Learning, Trajectory Optimization, and Task and Motion Planning.
+Currently, my main research interests lie in the areas of; 1) Multi-arm Task and Motion Planning and 2) Manipulation of Deformable Objects. To advance the research in such areas, I leverage methods from the fields of Differentiable Simulation, Reinforcement Learning, Imitation Learning, Simulation of Deformable Objects, and Trajectory Optimization. 
