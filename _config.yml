@@ -49,7 +49,7 @@ rss_icon: false
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 bib_search: true
 
@@ -249,12 +249,13 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/blog.md
-  - _pages/publications.md
+  #- _pages/publications.md
   - _pages/projects.md
   - _pages/repositories.md
   - _pages/cv.md
   - _pages/teaching.md
   - _pages/profiles.md
+  - _pages/dropdown.md
 
 keep_files:
   - CNAME
