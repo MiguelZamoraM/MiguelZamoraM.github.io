@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-#subtitle_1: <img src="../assets/img/chinese_name.png" alt="jin_cheng" width="80"/>
 
 profile:
   align: right
