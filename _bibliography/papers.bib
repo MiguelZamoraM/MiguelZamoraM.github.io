@@ -4,7 +4,9 @@
   author    = {Obrist, Jan and Zamora, Miguel and Zheng, Hehui and Zarate, Juan and Katzschmann, Robert K. and Coros, Stelian},
   title     = {PokeFlex: Towards a Real-World Dataset of Deformable Objects for Robotic Manipulation},
   year      = {2024},
-  website = {https://pokeflex-dataset.github.io/},
+  journal   = {Extended abstract. ICRA40. 2024. },
+  preview={dice_poke_v2.gif},
+  website = {https://pokeflex-dataset.github.io/},  
   selected={true},
 }
 
@@ -13,21 +15,25 @@
   title     = {TAPAS: A Dataset for Task Assignment and Planning for Multi Agent Systems},
   year      = {2024},
   journal   = {Workshop on Data Generation for Robotics at Robotics, Science and Systems '24},
+  preview={random_4_objs.mp4},
   website = {https://tapas-dataset.github.io/},
   selected={true},
 }
 
 
-@ARTICLE{kang2023rl,
-  author={Kang, Dongho and Cheng, Jin and Miguel Zamora and Zargarbashi, Fatemeh and Coros, Stelian},
-  journal={IEEE Robotics and Automation Letters}, 
-  title={RL + Model-based Control: Using On-demand Optimal Control to Learn Versatile Legged Locomotion}, 
+@article{kang2023rl+,
+  title={RL+ Model-based Control: Using On-demand Optimal Control to Learn Versatile Legged Locomotion},
+  author={Kang, Dongho and Cheng, Jin and Zamora, Miguel and Zargarbashi, Fatemeh and Coros, Stelian},
+  journal={IEEE Robotics and Automation Letters (RA-L)},
   year={2023},
-  volume={},
-  number={},
-  pages={1-8},
-  doi={10.1109/LRA.2023.3307008},
-  selected={false},}
+  arxiv={2305.17842},
+  html={https://ieeexplore.ieee.org/document/10225268},
+  video={https://youtu.be/gXDP87yVq4o},
+  preview={kang2023rl.png},
+  abstract={This letter presents a versatile control method for dynamic and robust legged locomotion that integrates model-based optimal control with reinforcement learning (RL). Our approach involves training an RL policy to imitate reference motions generated on-demand through solving a finite-horizon optimal control problem. This integration enables the policy to leverage human expertise in generating motions to imitate while also allowing it to generalize to more complex scenarios that require a more complex dynamics model. Our method successfully learns control policies capable of generating diverse quadrupedal gait patterns and maintaining stability against unexpected external perturbations in both simulation and hardware experiments. Furthermore, we demonstrate the adaptability of our method to more complex locomotion tasks on uneven terrain without the need for excessive reward shaping or hyperparameter tuning.},
+  selected={false},
+  website={https://donghok.me/rl-plus-model-based-control/}
+}
 
 @article{adrian,
   author = {Adrian Hartmann and Dongho Kang and Fatemeh Zargarbashi and Miguel Zamora and Stelian Coros},
@@ -47,7 +53,7 @@
   author = {Wenbo Wang and Gen Li and Miguel Zamora and Stelian Coros},
   booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)},  
   title = {TRTM: Template-based Reconstruction and Target-oriented Manipulation of Crumpled Cloths},
-  
+  preview={TRTM.png},
   publisher = {arXiv},
   
   year = {2024},
@@ -70,6 +76,7 @@
   author={Sukhija, Bhavya and Köhler, Nathanael and Miguel Zamora and Zimmermann, Simon and Curi, Sebastian and Krause, Andreas and Coros, Stelian},
   booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)}, 
   title={Gradient-Based Trajectory Optimization With Learned Dynamics}, 
+  preview={icra_gradient_based.png},  
   year={2023},
   volume={},
   number={},
@@ -82,6 +89,7 @@
   author={Zamora, Miguel and Poranne, Roi and Coros, Stelian},
   journal={IEEE Robotics and Automation Letters}, 
   title={Learning Solution Manifolds for Control Problems via Energy Minimization}, 
+  preview={zamora2022learning.png},  
   year={2022},
   volume={7},
   number={3},
@@ -94,6 +102,7 @@
   title = 	 {PODS: Policy Optimization via Differentiable Simulation},
   author = { Miguel Zamora and Peychev, Momchil and Ha, Sehoon and Vechev, Martin and Coros, Stelian},
   journal={Proceedings of the 38th International Conference on Machine Learning. ICML(2021). },
+  preview={pods.png},  
   year={2021},    
   url = 	 {https://proceedings.mlr.press/v139/mora21a.html},
   selected={true},
@@ -103,6 +112,7 @@
   title={A Multi-Level Optimization Framework for Simultaneous Grasping and Motion Planning}, 
   author={Zimmermann, Simon and Hakimifard, Ghazal and Miguel Zamora and Poranne, Roi and Coros, Stelian},
   journal={IEEE Robotics and Automation Letters},   
+  preview={castleMaker.png},  
   year={2020},
   volume={5},
   number={2},
