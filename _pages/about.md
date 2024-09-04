@@ -21,7 +21,7 @@ Hello world!
 
 I'm a final year PhD student in Computer Science at [ETH Zürich](https://ethz.ch/en.html) in the [Computational Robotics Lab](http://crl.ethz.ch/), under the supervision of [Prof. Stelian Coros](http://crl.ethz.ch/people/coros/index.html).
 
-Prior to this, I received my master's degree in Automation and Control Engineering from [Politecnico di Milano](https://www.polimi.it/) working under the supervision of [Prof. Paolo Rocco](https://rocco.faculty.polimi.it/), and a bachelor's degree in Mechatronics from [Universidad Nacional de Colombia](https://unal.edu.co/) under the supervision of [Prof. Jorge Sofrony](http://ieeexplore.ieee.org/author/37299744500/).
+Prior to this, I received my master's degree in Automation and Control Engineering from [Politecnico di Milano](https://www.polimi.it/) working under the supervision of [Prof. Paolo Rocco](https://rocco.faculty.polimi.it/), and a bachelor's degree in Mechatronics from [Universidad Nacional de Colombia](https://unal.edu.co/) under the supervision of [Prof. Jorge Sofrony](https://ieeexplore.ieee.org/author/37299744500/).
 
 #### - research
 
