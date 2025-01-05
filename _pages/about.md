@@ -25,4 +25,4 @@ Prior to this, I received my master's degree in Automation and Control Engineeri
 
 #### - research
 
-Currently, my main research interests lie in the areas of; 1) Multi-arm Task and Motion Planning and 2) Manipulation of Deformable Objects. To advance the research in such areas, I leverage methods from the fields of Differentiable Simulation, Reinforcement Learning, Imitation Learning, and Trajectory Optimization.
+Currently, my main research interests lie in the areas of; 1) Manipulation of Deformable Objects and 2) Multi-arm Task and Motion Planning. To advance the research in such areas, I leverage methods from the fields of Differentiable Simulation, Reinforcement Learning, Imitation Learning, and Trajectory Optimization.
